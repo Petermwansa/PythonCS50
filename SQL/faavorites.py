@@ -12,12 +12,8 @@ with open("favourites.csv", "r") as file:
         else:
             languages[language] = 1
 
-# this function will the input and return a corresponding value 
-def get_value(language):
-    return languages[language]
 
 # we sort out, then we use the get_value function then we reverse the returned data 
-for language in sorted(languages, key=get_value, reverse=True):
+#the lambda function enables you to create a function that you can use just once off and that is all and throw it away
+for language in sorted(languages, key=lambda language: languages[language], reverse=True):
     print(language, languages[language])
-
-
