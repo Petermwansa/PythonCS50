@@ -1,12 +1,12 @@
 import csv 
 
-languages = []
+languages = set()
 
 with open("favourites.csv", "r") as file:
     reader = csv.DictReader(file)
     for row in reader:
-        if not row["language"] in languages:
-            languages.append(row["language"])
+        language = row["language"].strip().upper()
+        languages.add(language)
 
 
 

@@ -1,7 +1,7 @@
 Timestamp,language,problem
 10/24/2022 8:33:26,C,Credit
-10/24/2022 10:32:26,Python,Runoff
-10/24/2022 11:10:47,Python,Mario
+10/24/2022 10:32:26,python,Runoff
+10/24/2022 11:10:47,JAVA,Mario
 10/24/2022 11:22:35,Python,Scratch
 10/24/2022 11:39:06,Python,Readability
 10/24/2022 11:53:00,Scratch,Scratch
@@ -13,13 +13,13 @@ Timestamp,language,problem
 10/24/2022 13:37:23,Python,Hello
 10/24/2022 13:37:24,Python,DNA
 10/24/2022 13:37:25,Python,Hello
-10/24/2022 13:37:26,Scratch,Cash
+10/24/2022 13:37:26,scratch,Cash
 10/24/2022 13:37:28,Python,Readability
 10/24/2022 13:37:29,Scratch,Scratch
 10/24/2022 13:37:30,Python,DNA
 10/24/2022 13:37:30,C,Speller
 10/24/2022 13:37:30,Python,Mario
-10/24/2022 13:37:30,Scratch,Filter
+10/24/2022 13:37:30,JAVA,Filter
 10/24/2022 13:37:30,Python,Readability
 10/24/2022 13:37:30,Python,Filter
 10/24/2022 13:37:31,Python,Scratch
@@ -35,7 +35,7 @@ Timestamp,language,problem
 10/24/2022 13:37:34,C,Hello
 10/24/2022 13:37:34,C,Speller
 10/24/2022 13:37:34,C,Hello
-10/24/2022 13:37:34,Python,Filter
+10/24/2022 13:37:34,JAVA,Filter
 10/24/2022 13:37:34,Scratch,Scratch
 10/24/2022 13:37:34,C,Filter
 10/24/2022 13:37:35,Scratch,Hello
@@ -47,7 +47,7 @@ Timestamp,language,problem
 10/24/2022 13:37:37,Python,Speller
 10/24/2022 13:37:37,Scratch,Hello
 10/24/2022 13:37:38,Python,Scratch
-10/24/2022 13:37:38,C,Filter
+10/24/2022 13:37:38,c,Filter
 10/24/2022 13:37:38,Python,Hello
 10/24/2022 13:37:39,Python,Recover
 10/24/2022 13:37:39,Python,Mario
@@ -71,20 +71,20 @@ Timestamp,language,problem
 10/24/2022 13:37:46,Scratch,Scratch
 10/24/2022 13:37:46,Python,Cash
 10/24/2022 13:37:47,Python,Speller
-10/24/2022 13:37:47,Scratch,Filter
+10/24/2022 13:37:47,scratch,Filter
 10/24/2022 13:37:47,C,Filter
 10/24/2022 13:37:47,C,Hello
 10/24/2022 13:37:48,Python,Wordle50
 10/24/2022 13:37:48,C,Mario
-10/24/2022 13:37:48,Python,Hello
+10/24/2022 13:37:48,JAVA,Hello
 10/24/2022 13:37:49,Python,Filter
 10/24/2022 13:37:49,Python,Speller
 10/24/2022 13:37:49,Python,DNA
 10/24/2022 13:37:49,Python,Filter
 10/24/2022 13:37:49,Python,Wordle50
-10/24/2022 13:37:49,Python,Scratch
+10/24/2022 13:37:49,JAVA,Scratch
 10/24/2022 13:37:50,Python,Wordle50
-10/24/2022 13:37:50,Python,Filter
+10/24/2022 13:37:50,python,Filter
 10/24/2022 13:37:50,Python,DNA
 10/24/2022 13:37:50,Python,Cash
 10/24/2022 13:37:51,C,Recover
@@ -104,7 +104,7 @@ Timestamp,language,problem
 10/24/2022 13:37:53,C,Tideman
 10/24/2022 13:37:54,Python,Wordle50
 10/24/2022 13:37:54,Python,Caesar
-10/24/2022 13:37:54,Python,Runoff
+10/24/2022 13:37:54,python,Runoff
 10/24/2022 13:37:55,Python,Mario
 10/24/2022 13:37:55,C,Recover
 10/24/2022 13:37:55,C,Wordle50
@@ -112,9 +112,9 @@ Timestamp,language,problem
 10/24/2022 13:37:56,Python,Hello
 10/24/2022 13:37:56,Python,Filter
 10/24/2022 13:37:57,Python,Recover
-10/24/2022 13:37:57,Python,DNA
+10/24/2022 13:37:57,java,DNA
 10/24/2022 13:37:57,C,Reverse
-10/24/2022 13:37:57,Python,Readability
+10/24/2022 13:37:57,java,Readability
 10/24/2022 13:37:57,Python,Scratch
 10/24/2022 13:37:57,Python,Filter
 10/24/2022 13:37:58,Python,DNA
@@ -135,7 +135,7 @@ Timestamp,language,problem
 10/24/2022 13:38:00,Python,DNA
 10/24/2022 13:38:00,Python,Hello
 10/24/2022 13:38:00,Python,Speller
-10/24/2022 13:38:00,Python,Readability
+10/24/2022 13:38:00,java,Readability
 10/24/2022 13:38:00,Python,Wordle50
 10/24/2022 13:38:01,Python,DNA
 10/24/2022 13:38:01,Python,Wordle50
@@ -143,7 +143,7 @@ Timestamp,language,problem
 10/24/2022 13:38:01,Python,Scratch
 10/24/2022 13:38:01,Python,DNA
 10/24/2022 13:38:02,Python,Hello
-10/24/2022 13:38:02,C,Tideman
+10/24/2022 13:38:02,c,Tideman
 10/24/2022 13:38:03,Scratch,Credit
 10/24/2022 13:38:03,C,Readability
 10/24/2022 13:38:03,Python,Speller
@@ -175,7 +175,7 @@ Timestamp,language,problem
 10/24/2022 13:38:08,Scratch,Scratch
 10/24/2022 13:38:08,C,Tideman
 10/24/2022 13:38:08,Python,Caesar
-10/24/2022 13:38:08,Python,Readability
+10/24/2022 13:38:08,java,Readability
 10/24/2022 13:38:08,C,Speller
 10/24/2022 13:38:09,Python,Wordle50
 10/24/2022 13:38:09,Python,Readability
@@ -188,7 +188,7 @@ Timestamp,language,problem
 10/24/2022 13:38:10,Python,Bulbs
 10/24/2022 13:38:10,C,Caesar
 10/24/2022 13:38:10,Python,Filter
-10/24/2022 13:38:10,Python,Readability
+10/24/2022 13:38:10,python,Readability
 10/24/2022 13:38:10,C,Filter
 10/24/2022 13:38:10,Python,Hello
 10/24/2022 13:38:11,Python,Credit
@@ -211,7 +211,7 @@ Timestamp,language,problem
 10/24/2022 13:38:14,Python,Bulbs
 10/24/2022 13:38:15,Python,Tideman
 10/24/2022 13:38:15,C,Caesar
-10/24/2022 13:38:15,Python,Mario
+10/24/2022 13:38:15,java,Mario
 10/24/2022 13:38:15,C,Speller
 10/24/2022 13:38:15,Python,Filter
 10/24/2022 13:38:16,Python,Caesar
@@ -222,7 +222,7 @@ Timestamp,language,problem
 10/24/2022 13:38:16,Python,Readability
 10/24/2022 13:38:17,C,Plurality
 10/24/2022 13:38:17,Python,Reverse
-10/24/2022 13:38:17,Python,Readability
+10/24/2022 13:38:17,java,Readability
 10/24/2022 13:38:17,Scratch,Credit
 10/24/2022 13:38:17,Python,Credit
 10/24/2022 13:38:18,Python,Mario
@@ -236,7 +236,7 @@ Timestamp,language,problem
 10/24/2022 13:38:19,Python,Caesar
 10/24/2022 13:38:19,Python,Filter
 10/24/2022 13:38:19,Python,Filter
-10/24/2022 13:38:19,Scratch,Hello
+10/24/2022 13:38:19,Javascript,Hello
 10/24/2022 13:38:20,Python,Caesar
 10/24/2022 13:38:20,Scratch,Scratch
 10/24/2022 13:38:21,Python,Speller
@@ -255,7 +255,7 @@ Timestamp,language,problem
 10/24/2022 13:38:24,Python,Mario
 10/24/2022 13:38:24,Python,DNA
 10/24/2022 13:38:24,Python,Reverse
-10/24/2022 13:38:24,Python,Scratch
+10/24/2022 13:38:24,Javascript,Scratch
 10/24/2022 13:38:25,Scratch,Scratch
 10/24/2022 13:38:25,Python,Filter
 10/24/2022 13:38:25,C,Scratch
@@ -289,7 +289,7 @@ Timestamp,language,problem
 10/24/2022 13:38:33,Python,Runoff
 10/24/2022 13:38:33,Python,Mario
 10/24/2022 13:38:33,C,Filter
-10/24/2022 13:38:33,Python,Mario
+10/24/2022 13:38:33,Javascript,Mario
 10/24/2022 13:38:34,Python,DNA
 10/24/2022 13:38:34,Python,Bulbs
 10/24/2022 13:38:35,Python,Scratch
@@ -326,7 +326,7 @@ Timestamp,language,problem
 10/24/2022 13:38:48,C,Caesar
 10/24/2022 13:38:48,Scratch,Tideman
 10/24/2022 13:38:50,C,Readability
-10/24/2022 13:38:50,Python,Cash
+10/24/2022 13:38:50,Javascript,Cash
 10/24/2022 13:38:50,C,Readability
 10/24/2022 13:38:51,Python,Hello
 10/24/2022 13:38:52,C,Speller
@@ -344,7 +344,7 @@ Timestamp,language,problem
 10/24/2022 13:38:57,Python,DNA
 10/24/2022 13:38:57,Scratch,Tideman
 10/24/2022 13:38:59,Scratch,Scratch
-10/24/2022 13:39:01,Scratch,Tideman
+10/24/2022 13:39:01,scratch,Tideman
 10/24/2022 13:39:02,Python,Hello
 10/24/2022 13:39:02,Python,Mario
 10/24/2022 13:39:02,Python,Hello
@@ -376,7 +376,7 @@ Timestamp,language,problem
 10/24/2022 13:39:13,Python,Hello
 10/24/2022 13:39:13,Python,Mario
 10/24/2022 13:39:15,Scratch,Runoff
-10/24/2022 13:39:17,Python,Credit
+10/24/2022 13:39:17,Javascript,Credit
 10/24/2022 13:39:17,C,Mario
 10/24/2022 13:39:17,Scratch,Tideman
 10/24/2022 13:39:17,C,Reverse
@@ -413,12 +413,12 @@ Timestamp,language,problem
 10/24/2022 13:39:51,Scratch,Tideman
 10/24/2022 13:39:51,C,Credit
 10/24/2022 13:39:57,Scratch,Tideman
-10/24/2022 13:39:58,Python,Hello
+10/24/2022 13:39:58,Javascript,Hello
 10/24/2022 13:39:58,Scratch,Hello
 10/24/2022 13:39:59,Python,Filter
 10/24/2022 13:40:01,Scratch,Tideman
 10/24/2022 13:40:03,Python,Mario
-10/24/2022 13:40:04,Scratch,Tideman
+10/24/2022 13:40:04,Javascript,Tideman
 10/24/2022 13:40:07,C,Readability
 10/24/2022 13:40:08,Scratch,Tideman
 10/24/2022 13:40:08,Python,Filter
@@ -471,7 +471,7 @@ Timestamp,language,problem
 10/24/2022 13:54:12,Python,Hello
 10/24/2022 13:55:11,Scratch,Mario
 10/24/2022 13:55:51,Python,DNA
-10/24/2022 13:58:03,Python,Cash
+10/24/2022 13:58:03,python,Cash
 10/24/2022 13:58:22,Scratch,Scratch
 10/24/2022 13:59:15,Python,Speller
 10/24/2022 14:00:05,C,Reverse
@@ -483,7 +483,7 @@ Timestamp,language,problem
 10/24/2022 14:05:19,Python,Cash
 10/24/2022 14:07:00,Scratch,Scratch
 10/24/2022 14:07:19,Python,Mario
-10/24/2022 14:07:55,C,Readability
+10/24/2022 14:07:55,Javascript,Readability
 10/24/2022 14:08:30,C,Readability
 10/24/2022 14:08:40,C,Filter
 10/24/2022 14:08:41,Python,DNA
@@ -562,7 +562,7 @@ Timestamp,language,problem
 10/24/2022 17:49:35,Python,Bulbs
 10/24/2022 17:55:19,C,Scratch
 10/24/2022 17:56:27,C,Substitution
-10/24/2022 18:09:35,Scratch,Scratch
+10/24/2022 18:09:35,JavaScript,Scratch
 10/24/2022 18:11:21,Python,Mario
 10/24/2022 18:15:36,Python,Mario
 10/24/2022 19:02:16,Python,Runoff
@@ -601,7 +601,7 @@ Timestamp,language,problem
 10/24/2022 22:21:03,Scratch,Scratch
 10/24/2022 22:26:52,Python,Caesar
 10/24/2022 22:31:06,Python,Tideman
-10/24/2022 22:45:23,C,Filter
+10/24/2022 22:45:23,c,Filter
 10/24/2022 22:51:13,Python,Bulbs
 10/24/2022 23:27:49,Python,Scratch
 10/24/2022 23:28:21,Python,Wordle50
@@ -611,7 +611,7 @@ Timestamp,language,problem
 10/25/2022 0:00:08,Python,Filter
 10/25/2022 0:10:21,C,Readability
 10/25/2022 0:24:24,C,DNA
-10/25/2022 0:32:43,Python,Cash
+10/25/2022 0:32:43,JavaScript,Cash
 10/25/2022 0:42:00,Python,DNA
 10/25/2022 0:47:44,Python,Hello
 10/25/2022 0:50:45,C,Hello
@@ -639,10 +639,18 @@ Timestamp,language,problem
 10/25/2022 5:51:47,Python,Readability
 10/25/2022 6:02:58,C,Filter
 10/25/2022 6:07:58,Python,Speller
-10/25/2022 6:18:19,Python,DNA
+10/25/2022 6:18:19,Java,DNA
 10/25/2022 6:31:35,Python,Filter
 10/25/2022 6:56:16,Python,Cash
 10/25/2022 7:34:25,Python,Filter
+10/25/2022 7:55:47,Python,Substitution
+10/25/2022 8:00:57,JavaScript,Scratch
+10/25/2022 8:04:54,Python,Hello
+10/25/2022 6:07:58,Python,Speller
+10/25/2022 6:18:19,Python,DNA
+10/25/2022 6:31:35,Java,Filter
+10/25/2022 6:56:16,Python,Cash
+10/25/2022 7:34:25,java,Filter
 10/25/2022 7:55:47,Python,Substitution
 10/25/2022 8:00:57,Scratch,Scratch
 10/25/2022 8:04:54,Python,Hello
