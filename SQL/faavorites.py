@@ -3,14 +3,39 @@ import re
 from pickle import TRUE
 from typing import Counter 
 
+
+
+# MAKE THE USER ENTER THE TITLE THEY WANT TO SEARCH FOR 
+
+# we prompt the user to enter 
+language = input("Language: ").strip().upper()
+
 counter = 0
 
 with open("favourites.csv", "r") as file:
     reader = csv.DictReader(file)
     for row in reader:
-        language = row["language"].strip().upper()
-        if re.search("^(PYTHON|THE PYTHON)$", language):
+        if row["language"].strip().upper() == language:
             counter += 1
+
+print(counter)
+
+
+
+
+
+# PRINT OUT A TITLE TO THE SCREEN 
+
+# counter = 0
+
+# with open("favourites.csv", "r") as file:
+#     reader = csv.DictReader(file)
+#     for row in reader:
+#         language = row["language"].strip().upper()
+
+#         # here we are using regular expresions to check that the user has input from the beggining of the senntence and doesnot type anything at the end "$"
+#         if re.search("^(PYTHON|THE PYTHON)$", language):
+#             counter += 1
 
 print(f"The number of people who like Python is: {counter}")
 
