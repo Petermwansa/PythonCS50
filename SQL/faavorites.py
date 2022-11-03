@@ -1,24 +1,54 @@
 import csv
+import sqlite3
 import re
 from pickle import TRUE
 from typing import Counter 
+from cs50 import SQL
+
+
+# here we have opened the fav db filew by inporting csv into sqlite
+db = SQL("sqlite:///favorites.db")
+
+
+# prompt the user to enter the tilte 
+language = input("Language: ").strip()
+
+# execute the sql query on the db it returns the list of rows
+rows = db.execute("SELECT COUNT(*) AS counter FROM favorites WHERE language LIKE ?", language)
+
+row = rows[0]
+
+print(row["counter"])
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 # MAKE THE USER ENTER THE TITLE THEY WANT TO SEARCH FOR 
 
 # we prompt the user to enter 
-language = input("Language: ").strip().upper()
+# language = input("Language: ").strip().upper()
 
-counter = 0
+# counter = 0
 
-with open("favourites.csv", "r") as file:
-    reader = csv.DictReader(file)
-    for row in reader:
-        if row["language"].strip().upper() == language:
-            counter += 1
+# with open("favourites.csv", "r") as file:
+#     reader = csv.DictReader(file)
+#     for row in reader:
+#         if row["language"].strip().upper() == language:
+#             counter += 1
 
-print(counter)
+# print(counter)
 
 
 
@@ -37,7 +67,7 @@ print(counter)
 #         if re.search("^(PYTHON|THE PYTHON)$", language):
 #             counter += 1
 
-print(f"The number of people who like Python is: {counter}")
+# print(f"The number of people who like Python is: {counter}")
 
 
 
