@@ -13,6 +13,7 @@ db = SQL("sqlite:///favorites.db")
 # prompt the user to enter the tilte 
 language = input("Language: ").strip()
 
+
 # execute the sql query on the db it returns the count as the list of rows
 rows = db.execute("SELECT COUNT(*) AS counter FROM favorites WHERE language LIKE ?", language)
 
